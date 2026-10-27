@@ -1,6 +1,11 @@
 # 📡 FLOWBIX TELECOM
 ### Interactive Telecom Traffic Analysis Dashboard Using Machine Learning
 
+## 🌐 Live Demo
+🚀 **Explore the Dashboard:** https://flowbix-telecom-fmthgdpx9htyi2fcqvdj8t.streamlit.app/
+
+Experience interactive telecom traffic analysis, SMS and call visualizations, machine learning predictions, and network analytics.
+
 ## 📌 About the Project
 FLOWBIX TELECOM is an interactive web-based dashboard developed to analyze and visualize telecommunications traffic data. It provides insights into SMS activity, incoming and outgoing calls, regional traffic patterns, and network usage through interactive visualizations and machine learning techniques.
 
@@ -17,7 +22,7 @@ FLOWBIX TELECOM is an interactive web-based dashboard developed to analyze and v
 - **Call Analysis:** Examine incoming and outgoing calls.
 - **Traffic Monitoring:** Visualize telecom traffic patterns.
 - **Interactive Visualizations:** Explore data using charts and graphs.
-- **Machine Learning:** Support traffic analysis and prediction.
+- **Machine Learning:** Support traffic analysis and prediction using Linear Regression and Random Forest Regressor.
 - **Regional Analysis:** Explore regional traffic patterns.
 - **Tower Analytics:** Analyze tower-level information when available.
 - **Dataset Explorer:** Upload and explore telecom datasets.
